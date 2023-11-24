@@ -1,0 +1,898 @@
+[
+  {
+    "vacancy": "Senior QAA Python в 2GIS.PRO",
+    "link": "https://adsrv.hh.ru/click?b=598306&c=30&place=35&meta=15S0QfE7qbVzWqODDexkAt1ENkmO0yXdddQQBIF4KVcS1GlCK-_Q977T_kubHt2NrURLuDv4egEoRDIM0Zy-OvLPI3sa2ME7KU0Xwirafsm2fI_k8EUmsKj6GCh8ehRB3KmQS6URd9dGrumZ-5xahE5YSAvJZDMT_pmf8LwQynJAuGBeyPanB-j1DHWZSXLZTaBZLkjz5LBnSRZt4ynLKiBeF2JMW1Q4Dn3ZPaK3jOp34n71WUY3BFBgNhjivUgZV5aD7BavUD5lNdTC4ahmsw8msj22_GQNGv4RcMgUtVPGBT1c0zVuNN5ZQ5pDDxpG-eSy_Xb9HSSMKi8AoPJJ4VIocwVbm_Yew8RA0KRsycrlM2Sfk3P-Cz3FlAULDkdzj83RsDWPBmbc4ZM_hoFNWHHacVMhJ2jEOufZOLopDm861rfcNXpCkLJb7T1VgfjvrG3yZa1ftlTDVfL-GxPxduNw22y72G7veBp0mcdqysrqR7_XfreODZErTFDfzksJon74rkqE4s9qvDtdq6cVGA%3D%3D&clickType=link_to_vacancy",
+    "salary": "no salary declared",
+    "company": "ООО Асланов Технолоджи Групп",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Системный администратор",
+    "link": "https://adsrv.hh.ru/click?b=746855&c=8&place=36&meta=Um-ze0BNUeccAd15WVXnQnH_0YtJiMISi83gwHq29OSOpcVfCpoyGocklimN4h892R8gN9GbzmYzrLg1JFKBPDdgFclFt44UzyJoGsVJ_0zRvDfzd7sjEHFlfxHuV93Fi1EpELD6e-60oFjB-AFV9CTUkyiJd73CL4lxM009A-On5G09QNitjw5Xuu1w5LLCNH6bLxx0t625clN19AehN6D1ZpCJ8l65EeJUEdezjsPXVc4ot-lorCiOPbNskbxKtPLLspN3miG6_nS-IO7tgMjnadceWtRbCTZZx6Gu4n1Yg9i93px0qf9mplu0AQU_8vmtj-VasfzwmHeMPLbbfgXo0Ex03SKtiMTfNf7mv_JDWgJSXn8rADu5tzCeqkqtpc6sWCAeSWrPwVOEhgCAIFBKYx0RTj2ZGfz_36ng8fUr4eoym9ZAjPaovBACsqN3DwA1gfdr83RkcFJ3uOevuhEcAVFFpY-7xamICUXkEiBEY42aX4azW8xYQSrKnGxKjwsVKkADLWHsTNh7FrS-xw%3D%3D&clickType=link_to_vacancy",
+    "salary": "от 130000 ₽",
+    "company": "ООО АВ Софт",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Python Developer",
+    "link": "https://spb.hh.ru/vacancy/87770978?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "no salary declared",
+    "company": "ООО Дивергент",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Python программист/Куратор курса «Разработчик нейросетей»",
+    "link": "https://spb.hh.ru/vacancy/88079904?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "no salary declared",
+    "company": "Точка",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "SRE-инженер в Маркет",
+    "link": "https://spb.hh.ru/vacancy/89852569?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "no salary declared",
+    "company": "АО Особая Экономическая Зона Технополис Москва",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Программист Python",
+    "link": "https://spb.hh.ru/vacancy/89850580?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "no salary declared",
+    "company": "Тензор",
+    "city": "Санкт-Петербург"
+  },
+  {
+    "vacancy": "Python разработчик",
+    "link": "https://spb.hh.ru/vacancy/89321400?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "no salary declared",
+    "company": "Quiet Media",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Программист Python",
+    "link": "https://spb.hh.ru/vacancy/88840918?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "до 300000 ₽",
+    "company": "Работут",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Senior QAA Python в 2GIS.PRO",
+    "link": "https://adsrv.hh.ru/click?b=598306&c=30&place=35&meta=15S0QfE7qbVzWqODDexkAt1ENkmO0yXdddQQBIF4KVcS1GlCK-_Q977T_kubHt2NrURLuDv4egEoRDIM0Zy-OvLPI3sa2ME7KU0Xwirafsm2fI_k8EUmsKj6GCh8ehRB3KmQS6URd9dGrumZ-5xahE5YSAvJZDMT_pmf8LwQynJAuGBeyPanB-j1DHWZSXLZTaBZLkjz5LBnSRZt4ynLKiBeF2JMW1Q4Dn3ZPaK3jOp34n71WUY3BFBgNhjivUgZV5aD7BavUD5lNdTC4ahmsw8msj22_GQNGv4RcMgUtVPGBT1c0zVuNN5ZQ5pDDxpG-eSy_Xb9HSSMKi8AoPJJ4VIocwVbm_Yew8RA0KRsycrlM2Sfk3P-Cz3FlAULDkdzj83RsDWPBmbc4ZM_hoFNWHHacVMhJ2jEOufZOLopDm861rfcNXpCkLJb7T1VgfjvrG3yZa1ftlTDVfL-GxPxduNw22y72G7veBp0mcdqysrqR7_XfreODZErTFDfzksJon74rkqE4s9qvDtdq6cVGA%3D%3D&clickType=link_to_vacancy",
+    "salary": "no salary declared",
+    "company": "ООО Асланов Технолоджи Групп",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Системный администратор",
+    "link": "https://adsrv.hh.ru/click?b=746855&c=8&place=36&meta=Um-ze0BNUeccAd15WVXnQnH_0YtJiMISi83gwHq29OSOpcVfCpoyGocklimN4h892R8gN9GbzmYzrLg1JFKBPDdgFclFt44UzyJoGsVJ_0zRvDfzd7sjEHFlfxHuV93Fi1EpELD6e-60oFjB-AFV9CTUkyiJd73CL4lxM009A-On5G09QNitjw5Xuu1w5LLCNH6bLxx0t625clN19AehN6D1ZpCJ8l65EeJUEdezjsPXVc4ot-lorCiOPbNskbxKtPLLspN3miG6_nS-IO7tgMjnadceWtRbCTZZx6Gu4n1Yg9i93px0qf9mplu0AQU_8vmtj-VasfzwmHeMPLbbfgXo0Ex03SKtiMTfNf7mv_JDWgJSXn8rADu5tzCeqkqtpc6sWCAeSWrPwVOEhgCAIFBKYx0RTj2ZGfz_36ng8fUr4eoym9ZAjPaovBACsqN3DwA1gfdr83RkcFJ3uOevuhEcAVFFpY-7xamICUXkEiBEY42aX4azW8xYQSrKnGxKjwsVKkADLWHsTNh7FrS-xw%3D%3D&clickType=link_to_vacancy",
+    "salary": "от 130000 ₽",
+    "company": "ООО АВ Софт",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Python Developer",
+    "link": "https://spb.hh.ru/vacancy/87770978?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "no salary declared",
+    "company": "ООО Дивергент",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Python программист/Куратор курса «Разработчик нейросетей»",
+    "link": "https://spb.hh.ru/vacancy/88079904?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "no salary declared",
+    "company": "Точка",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "SRE-инженер в Маркет",
+    "link": "https://spb.hh.ru/vacancy/89852569?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "no salary declared",
+    "company": "АО Особая Экономическая Зона Технополис Москва",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Программист Python",
+    "link": "https://spb.hh.ru/vacancy/89850580?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "no salary declared",
+    "company": "Тензор",
+    "city": "Санкт-Петербург"
+  },
+  {
+    "vacancy": "Python разработчик",
+    "link": "https://spb.hh.ru/vacancy/89321400?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "no salary declared",
+    "company": "Quiet Media",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Программист Python",
+    "link": "https://spb.hh.ru/vacancy/88840918?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "до 300000 ₽",
+    "company": "Работут",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Разработчик Python",
+    "link": "https://spb.hh.ru/vacancy/89847342?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "до 230000 ₽",
+    "company": "Ateuco",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Разработчик (Python)",
+    "link": "https://spb.hh.ru/vacancy/89008711?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "no salary declared",
+    "company": "ООО АВ Софт",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Разработчик Python",
+    "link": "https://spb.hh.ru/vacancy/89448592?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "no salary declared",
+    "company": "ООО Дивергент",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Python developer",
+    "link": "https://spb.hh.ru/vacancy/89841853?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "no salary declared",
+    "company": "Точка",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Python-разработчик",
+    "link": "https://spb.hh.ru/vacancy/86085894?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "до 420000 ₽",
+    "company": "АО Особая Экономическая Зона Технополис Москва",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Программист Python",
+    "link": "https://spb.hh.ru/vacancy/89711023?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "185000 – 240000 ₽",
+    "company": "Тензор",
+    "city": "Санкт-Петербург"
+  },
+  {
+    "vacancy": "Python-developer",
+    "link": "https://spb.hh.ru/vacancy/89837670?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "100000 – 215000 ₽",
+    "company": "Quiet Media",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Python Разработчик",
+    "link": "https://spb.hh.ru/vacancy/89597948?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "до 300000 ₽",
+    "company": "Работут",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Python разработчик",
+    "link": "https://spb.hh.ru/vacancy/88580480?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "no salary declared",
+    "company": "ООО Финансово-правовой альянс",
+    "city": "Санкт-Петербург"
+  },
+  {
+    "vacancy": "Senior QAA Python в 2GIS.PRO",
+    "link": "https://adsrv.hh.ru/click?b=598306&c=30&place=35&meta=15S0QfE7qbVzWqODDexkAt1ENkmO0yXdddQQBIF4KVcS1GlCK-_Q977T_kubHt2NrURLuDv4egEoRDIM0Zy-OvLPI3sa2ME7KU0Xwirafsm2fI_k8EUmsKj6GCh8ehRB3KmQS6URd9dGrumZ-5xahE5YSAvJZDMT_pmf8LwQynJAuGBeyPanB-j1DHWZSXLZTaBZLkjz5LBnSRZt4ynLKiBeF2JMW1Q4Dn3ZPaK3jOp34n71WUY3BFBgNhjivUgZV5aD7BavUD5lNdTC4ahmsw8msj22_GQNGv4RcMgUtVPGBT1c0zVuNN5ZQ5pDDxpG-eSy_Xb9HSSMKi8AoPJJ4VIocwVbm_Yew8RA0KRsycrlM2Sfk3P-Cz3FlAULDkdzj83RsDWPBmbc4ZM_hoFNWHHacVMhJ2jEOufZOLopDm861rfcNXpCkLJb7T1VgfjvrG3yZa1ftlTDVfL-GxPxduNw22y72G7veBp0mcdqysrqR7_XfreODZErTFDfzksJon74rkqE4s9qvDtdq6cVGA%3D%3D&clickType=link_to_vacancy",
+    "salary": "no salary declared",
+    "company": "ООО Асланов Технолоджи Групп",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Системный администратор",
+    "link": "https://adsrv.hh.ru/click?b=746855&c=8&place=36&meta=Um-ze0BNUeccAd15WVXnQnH_0YtJiMISi83gwHq29OSOpcVfCpoyGocklimN4h892R8gN9GbzmYzrLg1JFKBPDdgFclFt44UzyJoGsVJ_0zRvDfzd7sjEHFlfxHuV93Fi1EpELD6e-60oFjB-AFV9CTUkyiJd73CL4lxM009A-On5G09QNitjw5Xuu1w5LLCNH6bLxx0t625clN19AehN6D1ZpCJ8l65EeJUEdezjsPXVc4ot-lorCiOPbNskbxKtPLLspN3miG6_nS-IO7tgMjnadceWtRbCTZZx6Gu4n1Yg9i93px0qf9mplu0AQU_8vmtj-VasfzwmHeMPLbbfgXo0Ex03SKtiMTfNf7mv_JDWgJSXn8rADu5tzCeqkqtpc6sWCAeSWrPwVOEhgCAIFBKYx0RTj2ZGfz_36ng8fUr4eoym9ZAjPaovBACsqN3DwA1gfdr83RkcFJ3uOevuhEcAVFFpY-7xamICUXkEiBEY42aX4azW8xYQSrKnGxKjwsVKkADLWHsTNh7FrS-xw%3D%3D&clickType=link_to_vacancy",
+    "salary": "от 130000 ₽",
+    "company": "ООО АВ Софт",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Python Developer",
+    "link": "https://spb.hh.ru/vacancy/87770978?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "no salary declared",
+    "company": "ООО Дивергент",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Python программист/Куратор курса «Разработчик нейросетей»",
+    "link": "https://spb.hh.ru/vacancy/88079904?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "no salary declared",
+    "company": "Точка",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "SRE-инженер в Маркет",
+    "link": "https://spb.hh.ru/vacancy/89852569?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "no salary declared",
+    "company": "АО Особая Экономическая Зона Технополис Москва",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Программист Python",
+    "link": "https://spb.hh.ru/vacancy/89850580?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "no salary declared",
+    "company": "Тензор",
+    "city": "Санкт-Петербург"
+  },
+  {
+    "vacancy": "Python разработчик",
+    "link": "https://spb.hh.ru/vacancy/89321400?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "no salary declared",
+    "company": "Quiet Media",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Программист Python",
+    "link": "https://spb.hh.ru/vacancy/88840918?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "до 300000 ₽",
+    "company": "Работут",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Разработчик Python",
+    "link": "https://spb.hh.ru/vacancy/89847342?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "до 230000 ₽",
+    "company": "Ateuco",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Разработчик (Python)",
+    "link": "https://spb.hh.ru/vacancy/89008711?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "no salary declared",
+    "company": "ООО АВ Софт",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Разработчик Python",
+    "link": "https://spb.hh.ru/vacancy/89448592?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "no salary declared",
+    "company": "ООО Дивергент",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Python developer",
+    "link": "https://spb.hh.ru/vacancy/89841853?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "no salary declared",
+    "company": "Точка",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Python-разработчик",
+    "link": "https://spb.hh.ru/vacancy/86085894?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "до 420000 ₽",
+    "company": "АО Особая Экономическая Зона Технополис Москва",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Программист Python",
+    "link": "https://spb.hh.ru/vacancy/89711023?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "185000 – 240000 ₽",
+    "company": "Тензор",
+    "city": "Санкт-Петербург"
+  },
+  {
+    "vacancy": "Python-developer",
+    "link": "https://spb.hh.ru/vacancy/89837670?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "100000 – 215000 ₽",
+    "company": "Quiet Media",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Python Разработчик",
+    "link": "https://spb.hh.ru/vacancy/89597948?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "до 300000 ₽",
+    "company": "Работут",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Python разработчик",
+    "link": "https://spb.hh.ru/vacancy/88580480?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "no salary declared",
+    "company": "ООО Финансово-правовой альянс",
+    "city": "Санкт-Петербург"
+  },
+  {
+    "vacancy": "Python разработчик",
+    "link": "https://spb.hh.ru/vacancy/88383578?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "no salary declared",
+    "company": "ООО Виртуальные инфраструктуры",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Python developer / django",
+    "link": "https://spb.hh.ru/vacancy/88904697?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "no salary declared",
+    "company": "ООО АВ Софт",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Программист Python",
+    "link": "https://spb.hh.ru/vacancy/89828692?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "до 250000 ₽",
+    "company": "ООО Дивергент",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Senior QAA Python в 2GIS.PRO",
+    "link": "https://adsrv.hh.ru/click?b=598282&c=45&place=35&meta=UjdiGNqrvHMqHI4OuUV6JdTgrt6TlUWrhegbVA29QP-RzIrdb-9pfIgMzxM6sIRyuwmcO653zcy8kfhFCD9df1QUJ9rvxQRovsc_dD63xTeghxpntAzwN6pHRXFEQ7NbQ8y3I9SMxl1oZiEVbGSTfKdzg0ND7TijUSDo7NuFsFNk9OIEfpo2w3xzITl00lAw9tLxhMGJofQKLQ0gPmsDs4w19SBQHWBEeRj_84pRMxAyB1Yr2oZGIVGbfivZW1TDCFuJz9je6XYWSjixYLjEdBmvpQqx43OBLCMBsoQIWxVb907BOrrrChkZqegweGM7rVM2vO6Q7WQJJ7mjDK7PkyoxZrqjUWZf6aeFVVmpfCbPwaNVqJ0oIDP3OkWym5jHd-_5PH3pYcsVpDDpD11S85JhcUTkj5QamKOfZousnfA5b8O8aNBL-1WZb2Jtp2oVMkO146Ti4t03zuQzlscXdGDzEr3ohq4p7W-SThsaVSFswKH2LNJ19RnUQvoeYEWnoUECnabCtl_dsoT26dIgrA%3D%3D&clickType=link_to_vacancy",
+    "salary": "no salary declared",
+    "company": "Точка",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Сервисный инженер ЦТО/Инженер-электроник",
+    "link": "https://adsrv.hh.ru/click?b=746787&c=7&place=36&meta=4Jj2U8l3aPIYejvwAQfx-rPXodXz-o32j_51xRinjufWjZ3Qz27XrW9nbqYkS9MN01X0wCllDuQfe_zlGV0BEJjhEZ2-Amv60p1XjtSQGBEcbZ50uQhmBbmOaW5HspuJDKkcI9Dv91VOrB_dunI0KZiWv_sDuYefkBH6PND0qKtcUieFc1YfF1uYhin_YQUzgKOjjK9ZVWal6H8HIuAYPdoVLtABbiZa9H5xYHERklaj8KNvZLdBuSBlvoOTWcX3Iv3vyZsKy0o761ye2J8e2cj2cuXvJD1-LwRjM5rOy3y5J2nAjn8B4CgJNVfMeGJMCef_d5iyfYpAGNHoYvn6K6VcFnWSJ4tc3Qd-5kgdbxuuM5ZFNLB_EL4fQ1OY6WRvEJckmH2HKeG2ExlxqzP8QqPQNb1IyGU06VT5-azbEHF0B1rvNwKPcREdbd_Jjy6j_h1DbiohW0Do7Tgae70SoBwZFEkWjmZCpB4lPKlqs4HLj6gdaikrvQ1myVAPAAKVyvVarOg30MkMwYlD5CvyeQ%3D%3D&clickType=link_to_vacancy",
+    "salary": "от 100000 ₽",
+    "company": "АО Особая Экономическая Зона Технополис Москва",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Python Developer",
+    "link": "https://spb.hh.ru/vacancy/87770978?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "no salary declared",
+    "company": "Тензор",
+    "city": "Санкт-Петербург"
+  },
+  {
+    "vacancy": "SRE-инженер в Маркет",
+    "link": "https://spb.hh.ru/vacancy/89852569?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "no salary declared",
+    "company": "Quiet Media",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Программист Python",
+    "link": "https://spb.hh.ru/vacancy/89850580?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "no salary declared",
+    "company": "Работут",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Senior QAA Python в 2GIS.PRO",
+    "link": "https://adsrv.hh.ru/click?b=598306&c=30&place=35&meta=15S0QfE7qbVzWqODDexkAt1ENkmO0yXdddQQBIF4KVcS1GlCK-_Q977T_kubHt2NrURLuDv4egEoRDIM0Zy-OvLPI3sa2ME7KU0Xwirafsm2fI_k8EUmsKj6GCh8ehRB3KmQS6URd9dGrumZ-5xahE5YSAvJZDMT_pmf8LwQynJAuGBeyPanB-j1DHWZSXLZTaBZLkjz5LBnSRZt4ynLKiBeF2JMW1Q4Dn3ZPaK3jOp34n71WUY3BFBgNhjivUgZV5aD7BavUD5lNdTC4ahmsw8msj22_GQNGv4RcMgUtVPGBT1c0zVuNN5ZQ5pDDxpG-eSy_Xb9HSSMKi8AoPJJ4VIocwVbm_Yew8RA0KRsycrlM2Sfk3P-Cz3FlAULDkdzj83RsDWPBmbc4ZM_hoFNWHHacVMhJ2jEOufZOLopDm861rfcNXpCkLJb7T1VgfjvrG3yZa1ftlTDVfL-GxPxduNw22y72G7veBp0mcdqysrqR7_XfreODZErTFDfzksJon74rkqE4s9qvDtdq6cVGA%3D%3D&clickType=link_to_vacancy",
+    "salary": "no salary declared",
+    "company": "ООО Асланов Технолоджи Групп",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Системный администратор",
+    "link": "https://adsrv.hh.ru/click?b=746855&c=8&place=36&meta=Um-ze0BNUeccAd15WVXnQnH_0YtJiMISi83gwHq29OSOpcVfCpoyGocklimN4h892R8gN9GbzmYzrLg1JFKBPDdgFclFt44UzyJoGsVJ_0zRvDfzd7sjEHFlfxHuV93Fi1EpELD6e-60oFjB-AFV9CTUkyiJd73CL4lxM009A-On5G09QNitjw5Xuu1w5LLCNH6bLxx0t625clN19AehN6D1ZpCJ8l65EeJUEdezjsPXVc4ot-lorCiOPbNskbxKtPLLspN3miG6_nS-IO7tgMjnadceWtRbCTZZx6Gu4n1Yg9i93px0qf9mplu0AQU_8vmtj-VasfzwmHeMPLbbfgXo0Ex03SKtiMTfNf7mv_JDWgJSXn8rADu5tzCeqkqtpc6sWCAeSWrPwVOEhgCAIFBKYx0RTj2ZGfz_36ng8fUr4eoym9ZAjPaovBACsqN3DwA1gfdr83RkcFJ3uOevuhEcAVFFpY-7xamICUXkEiBEY42aX4azW8xYQSrKnGxKjwsVKkADLWHsTNh7FrS-xw%3D%3D&clickType=link_to_vacancy",
+    "salary": "от 130000 ₽",
+    "company": "ООО АВ Софт",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Python Developer",
+    "link": "https://spb.hh.ru/vacancy/87770978?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "no salary declared",
+    "company": "ООО Дивергент",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Python программист/Куратор курса «Разработчик нейросетей»",
+    "link": "https://spb.hh.ru/vacancy/88079904?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "no salary declared",
+    "company": "Точка",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "SRE-инженер в Маркет",
+    "link": "https://spb.hh.ru/vacancy/89852569?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "no salary declared",
+    "company": "АО Особая Экономическая Зона Технополис Москва",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Программист Python",
+    "link": "https://spb.hh.ru/vacancy/89850580?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "no salary declared",
+    "company": "Тензор",
+    "city": "Санкт-Петербург"
+  },
+  {
+    "vacancy": "Python разработчик",
+    "link": "https://spb.hh.ru/vacancy/89321400?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "no salary declared",
+    "company": "Quiet Media",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Программист Python",
+    "link": "https://spb.hh.ru/vacancy/88840918?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "до 300000 ₽",
+    "company": "Работут",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Разработчик Python",
+    "link": "https://spb.hh.ru/vacancy/89847342?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "до 230000 ₽",
+    "company": "Ateuco",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Разработчик (Python)",
+    "link": "https://spb.hh.ru/vacancy/89008711?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "no salary declared",
+    "company": "ООО АВ Софт",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Разработчик Python",
+    "link": "https://spb.hh.ru/vacancy/89448592?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "no salary declared",
+    "company": "ООО Дивергент",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Python developer",
+    "link": "https://spb.hh.ru/vacancy/89841853?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "no salary declared",
+    "company": "Точка",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Python-разработчик",
+    "link": "https://spb.hh.ru/vacancy/86085894?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "до 420000 ₽",
+    "company": "АО Особая Экономическая Зона Технополис Москва",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Программист Python",
+    "link": "https://spb.hh.ru/vacancy/89711023?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "185000 – 240000 ₽",
+    "company": "Тензор",
+    "city": "Санкт-Петербург"
+  },
+  {
+    "vacancy": "Python-developer",
+    "link": "https://spb.hh.ru/vacancy/89837670?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "100000 – 215000 ₽",
+    "company": "Quiet Media",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Python Разработчик",
+    "link": "https://spb.hh.ru/vacancy/89597948?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "до 300000 ₽",
+    "company": "Работут",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Python разработчик",
+    "link": "https://spb.hh.ru/vacancy/88580480?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "no salary declared",
+    "company": "ООО Финансово-правовой альянс",
+    "city": "Санкт-Петербург"
+  },
+  {
+    "vacancy": "Python разработчик",
+    "link": "https://spb.hh.ru/vacancy/88383578?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "no salary declared",
+    "company": "ООО Виртуальные инфраструктуры",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Python developer / django",
+    "link": "https://spb.hh.ru/vacancy/88904697?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "no salary declared",
+    "company": "ООО АВ Софт",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Программист Python",
+    "link": "https://spb.hh.ru/vacancy/89828692?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "до 250000 ₽",
+    "company": "ООО Дивергент",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Senior QAA Python в 2GIS.PRO",
+    "link": "https://adsrv.hh.ru/click?b=598282&c=45&place=35&meta=UjdiGNqrvHMqHI4OuUV6JdTgrt6TlUWrhegbVA29QP-RzIrdb-9pfIgMzxM6sIRyuwmcO653zcy8kfhFCD9df1QUJ9rvxQRovsc_dD63xTeghxpntAzwN6pHRXFEQ7NbQ8y3I9SMxl1oZiEVbGSTfKdzg0ND7TijUSDo7NuFsFNk9OIEfpo2w3xzITl00lAw9tLxhMGJofQKLQ0gPmsDs4w19SBQHWBEeRj_84pRMxAyB1Yr2oZGIVGbfivZW1TDCFuJz9je6XYWSjixYLjEdBmvpQqx43OBLCMBsoQIWxVb907BOrrrChkZqegweGM7rVM2vO6Q7WQJJ7mjDK7PkyoxZrqjUWZf6aeFVVmpfCbPwaNVqJ0oIDP3OkWym5jHd-_5PH3pYcsVpDDpD11S85JhcUTkj5QamKOfZousnfA5b8O8aNBL-1WZb2Jtp2oVMkO146Ti4t03zuQzlscXdGDzEr3ohq4p7W-SThsaVSFswKH2LNJ19RnUQvoeYEWnoUECnabCtl_dsoT26dIgrA%3D%3D&clickType=link_to_vacancy",
+    "salary": "no salary declared",
+    "company": "Точка",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Сервисный инженер ЦТО/Инженер-электроник",
+    "link": "https://adsrv.hh.ru/click?b=746787&c=7&place=36&meta=4Jj2U8l3aPIYejvwAQfx-rPXodXz-o32j_51xRinjufWjZ3Qz27XrW9nbqYkS9MN01X0wCllDuQfe_zlGV0BEJjhEZ2-Amv60p1XjtSQGBEcbZ50uQhmBbmOaW5HspuJDKkcI9Dv91VOrB_dunI0KZiWv_sDuYefkBH6PND0qKtcUieFc1YfF1uYhin_YQUzgKOjjK9ZVWal6H8HIuAYPdoVLtABbiZa9H5xYHERklaj8KNvZLdBuSBlvoOTWcX3Iv3vyZsKy0o761ye2J8e2cj2cuXvJD1-LwRjM5rOy3y5J2nAjn8B4CgJNVfMeGJMCef_d5iyfYpAGNHoYvn6K6VcFnWSJ4tc3Qd-5kgdbxuuM5ZFNLB_EL4fQ1OY6WRvEJckmH2HKeG2ExlxqzP8QqPQNb1IyGU06VT5-azbEHF0B1rvNwKPcREdbd_Jjy6j_h1DbiohW0Do7Tgae70SoBwZFEkWjmZCpB4lPKlqs4HLj6gdaikrvQ1myVAPAAKVyvVarOg30MkMwYlD5CvyeQ%3D%3D&clickType=link_to_vacancy",
+    "salary": "от 100000 ₽",
+    "company": "АО Особая Экономическая Зона Технополис Москва",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Python Developer",
+    "link": "https://spb.hh.ru/vacancy/87770978?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "no salary declared",
+    "company": "Тензор",
+    "city": "Санкт-Петербург"
+  },
+  {
+    "vacancy": "SRE-инженер в Маркет",
+    "link": "https://spb.hh.ru/vacancy/89852569?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "no salary declared",
+    "company": "Quiet Media",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Программист Python",
+    "link": "https://spb.hh.ru/vacancy/89850580?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "no salary declared",
+    "company": "Работут",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Python разработчик",
+    "link": "https://spb.hh.ru/vacancy/89321400?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "no salary declared",
+    "company": "ООО Виртуальные инфраструктуры",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Программист Python",
+    "link": "https://spb.hh.ru/vacancy/88840918?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "до 300000 ₽",
+    "company": "ООО Асланов Технолоджи Групп",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Разработчик Python",
+    "link": "https://spb.hh.ru/vacancy/89847342?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "до 230000 ₽",
+    "company": "ООО АВ Софт",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Разработчик (Python)",
+    "link": "https://spb.hh.ru/vacancy/89008711?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "no salary declared",
+    "company": "ООО Дивергент",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Разработчик Python",
+    "link": "https://spb.hh.ru/vacancy/89448592?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "no salary declared",
+    "company": "Точка",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Python developer",
+    "link": "https://spb.hh.ru/vacancy/89841853?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "no salary declared",
+    "company": "АО Особая Экономическая Зона Технополис Москва",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Python-разработчик",
+    "link": "https://spb.hh.ru/vacancy/86085894?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "до 420000 ₽",
+    "company": "Тензор",
+    "city": "Санкт-Петербург"
+  },
+  {
+    "vacancy": "Программист Python",
+    "link": "https://spb.hh.ru/vacancy/89711023?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "185000 – 240000 ₽",
+    "company": "Quiet Media",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Python-developer",
+    "link": "https://spb.hh.ru/vacancy/89837670?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "100000 – 215000 ₽",
+    "company": "Работут",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Python Разработчик",
+    "link": "https://spb.hh.ru/vacancy/89597948?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "до 300000 ₽",
+    "company": "ООО Финансово-правовой альянс",
+    "city": "Санкт-Петербург"
+  },
+  {
+    "vacancy": "Senior QAA Python в 2GIS.PRO",
+    "link": "https://adsrv.hh.ru/click?b=598306&c=30&place=35&meta=15S0QfE7qbVzWqODDexkAt1ENkmO0yXdddQQBIF4KVcS1GlCK-_Q977T_kubHt2NrURLuDv4egEoRDIM0Zy-OvLPI3sa2ME7KU0Xwirafsm2fI_k8EUmsKj6GCh8ehRB3KmQS6URd9dGrumZ-5xahE5YSAvJZDMT_pmf8LwQynJAuGBeyPanB-j1DHWZSXLZTaBZLkjz5LBnSRZt4ynLKiBeF2JMW1Q4Dn3ZPaK3jOp34n71WUY3BFBgNhjivUgZV5aD7BavUD5lNdTC4ahmsw8msj22_GQNGv4RcMgUtVPGBT1c0zVuNN5ZQ5pDDxpG-eSy_Xb9HSSMKi8AoPJJ4VIocwVbm_Yew8RA0KRsycrlM2Sfk3P-Cz3FlAULDkdzj83RsDWPBmbc4ZM_hoFNWHHacVMhJ2jEOufZOLopDm861rfcNXpCkLJb7T1VgfjvrG3yZa1ftlTDVfL-GxPxduNw22y72G7veBp0mcdqysrqR7_XfreODZErTFDfzksJon74rkqE4s9qvDtdq6cVGA%3D%3D&clickType=link_to_vacancy",
+    "salary": "no salary declared",
+    "company": "ООО Асланов Технолоджи Групп",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Системный администратор",
+    "link": "https://adsrv.hh.ru/click?b=746855&c=8&place=36&meta=Um-ze0BNUeccAd15WVXnQnH_0YtJiMISi83gwHq29OSOpcVfCpoyGocklimN4h892R8gN9GbzmYzrLg1JFKBPDdgFclFt44UzyJoGsVJ_0zRvDfzd7sjEHFlfxHuV93Fi1EpELD6e-60oFjB-AFV9CTUkyiJd73CL4lxM009A-On5G09QNitjw5Xuu1w5LLCNH6bLxx0t625clN19AehN6D1ZpCJ8l65EeJUEdezjsPXVc4ot-lorCiOPbNskbxKtPLLspN3miG6_nS-IO7tgMjnadceWtRbCTZZx6Gu4n1Yg9i93px0qf9mplu0AQU_8vmtj-VasfzwmHeMPLbbfgXo0Ex03SKtiMTfNf7mv_JDWgJSXn8rADu5tzCeqkqtpc6sWCAeSWrPwVOEhgCAIFBKYx0RTj2ZGfz_36ng8fUr4eoym9ZAjPaovBACsqN3DwA1gfdr83RkcFJ3uOevuhEcAVFFpY-7xamICUXkEiBEY42aX4azW8xYQSrKnGxKjwsVKkADLWHsTNh7FrS-xw%3D%3D&clickType=link_to_vacancy",
+    "salary": "от 130000 ₽",
+    "company": "ООО АВ Софт",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Python Developer",
+    "link": "https://spb.hh.ru/vacancy/87770978?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "no salary declared",
+    "company": "ООО Дивергент",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Python программист/Куратор курса «Разработчик нейросетей»",
+    "link": "https://spb.hh.ru/vacancy/88079904?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "no salary declared",
+    "company": "Точка",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "SRE-инженер в Маркет",
+    "link": "https://spb.hh.ru/vacancy/89852569?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "no salary declared",
+    "company": "АО Особая Экономическая Зона Технополис Москва",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Программист Python",
+    "link": "https://spb.hh.ru/vacancy/89850580?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "no salary declared",
+    "company": "Тензор",
+    "city": "Санкт-Петербург"
+  },
+  {
+    "vacancy": "Python разработчик",
+    "link": "https://spb.hh.ru/vacancy/89321400?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "no salary declared",
+    "company": "Quiet Media",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Программист Python",
+    "link": "https://spb.hh.ru/vacancy/88840918?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "до 300000 ₽",
+    "company": "Работут",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Разработчик Python",
+    "link": "https://spb.hh.ru/vacancy/89847342?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "до 230000 ₽",
+    "company": "Ateuco",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Разработчик (Python)",
+    "link": "https://spb.hh.ru/vacancy/89008711?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "no salary declared",
+    "company": "ООО АВ Софт",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Разработчик Python",
+    "link": "https://spb.hh.ru/vacancy/89448592?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "no salary declared",
+    "company": "ООО Дивергент",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Python developer",
+    "link": "https://spb.hh.ru/vacancy/89841853?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "no salary declared",
+    "company": "Точка",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Python-разработчик",
+    "link": "https://spb.hh.ru/vacancy/86085894?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "до 420000 ₽",
+    "company": "АО Особая Экономическая Зона Технополис Москва",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Программист Python",
+    "link": "https://spb.hh.ru/vacancy/89711023?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "185000 – 240000 ₽",
+    "company": "Тензор",
+    "city": "Санкт-Петербург"
+  },
+  {
+    "vacancy": "Python-developer",
+    "link": "https://spb.hh.ru/vacancy/89837670?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "100000 – 215000 ₽",
+    "company": "Quiet Media",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Python Разработчик",
+    "link": "https://spb.hh.ru/vacancy/89597948?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "до 300000 ₽",
+    "company": "Работут",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Python разработчик",
+    "link": "https://spb.hh.ru/vacancy/88580480?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "no salary declared",
+    "company": "ООО Финансово-правовой альянс",
+    "city": "Санкт-Петербург"
+  },
+  {
+    "vacancy": "Python разработчик",
+    "link": "https://spb.hh.ru/vacancy/88383578?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "no salary declared",
+    "company": "ООО Виртуальные инфраструктуры",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Python developer / django",
+    "link": "https://spb.hh.ru/vacancy/88904697?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "no salary declared",
+    "company": "ООО АВ Софт",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Программист Python",
+    "link": "https://spb.hh.ru/vacancy/89828692?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "до 250000 ₽",
+    "company": "ООО Дивергент",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Senior QAA Python в 2GIS.PRO",
+    "link": "https://adsrv.hh.ru/click?b=598282&c=45&place=35&meta=UjdiGNqrvHMqHI4OuUV6JdTgrt6TlUWrhegbVA29QP-RzIrdb-9pfIgMzxM6sIRyuwmcO653zcy8kfhFCD9df1QUJ9rvxQRovsc_dD63xTeghxpntAzwN6pHRXFEQ7NbQ8y3I9SMxl1oZiEVbGSTfKdzg0ND7TijUSDo7NuFsFNk9OIEfpo2w3xzITl00lAw9tLxhMGJofQKLQ0gPmsDs4w19SBQHWBEeRj_84pRMxAyB1Yr2oZGIVGbfivZW1TDCFuJz9je6XYWSjixYLjEdBmvpQqx43OBLCMBsoQIWxVb907BOrrrChkZqegweGM7rVM2vO6Q7WQJJ7mjDK7PkyoxZrqjUWZf6aeFVVmpfCbPwaNVqJ0oIDP3OkWym5jHd-_5PH3pYcsVpDDpD11S85JhcUTkj5QamKOfZousnfA5b8O8aNBL-1WZb2Jtp2oVMkO146Ti4t03zuQzlscXdGDzEr3ohq4p7W-SThsaVSFswKH2LNJ19RnUQvoeYEWnoUECnabCtl_dsoT26dIgrA%3D%3D&clickType=link_to_vacancy",
+    "salary": "no salary declared",
+    "company": "Точка",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Сервисный инженер ЦТО/Инженер-электроник",
+    "link": "https://adsrv.hh.ru/click?b=746787&c=7&place=36&meta=4Jj2U8l3aPIYejvwAQfx-rPXodXz-o32j_51xRinjufWjZ3Qz27XrW9nbqYkS9MN01X0wCllDuQfe_zlGV0BEJjhEZ2-Amv60p1XjtSQGBEcbZ50uQhmBbmOaW5HspuJDKkcI9Dv91VOrB_dunI0KZiWv_sDuYefkBH6PND0qKtcUieFc1YfF1uYhin_YQUzgKOjjK9ZVWal6H8HIuAYPdoVLtABbiZa9H5xYHERklaj8KNvZLdBuSBlvoOTWcX3Iv3vyZsKy0o761ye2J8e2cj2cuXvJD1-LwRjM5rOy3y5J2nAjn8B4CgJNVfMeGJMCef_d5iyfYpAGNHoYvn6K6VcFnWSJ4tc3Qd-5kgdbxuuM5ZFNLB_EL4fQ1OY6WRvEJckmH2HKeG2ExlxqzP8QqPQNb1IyGU06VT5-azbEHF0B1rvNwKPcREdbd_Jjy6j_h1DbiohW0Do7Tgae70SoBwZFEkWjmZCpB4lPKlqs4HLj6gdaikrvQ1myVAPAAKVyvVarOg30MkMwYlD5CvyeQ%3D%3D&clickType=link_to_vacancy",
+    "salary": "от 100000 ₽",
+    "company": "АО Особая Экономическая Зона Технополис Москва",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Python Developer",
+    "link": "https://spb.hh.ru/vacancy/87770978?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "no salary declared",
+    "company": "Тензор",
+    "city": "Санкт-Петербург"
+  },
+  {
+    "vacancy": "SRE-инженер в Маркет",
+    "link": "https://spb.hh.ru/vacancy/89852569?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "no salary declared",
+    "company": "Quiet Media",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Программист Python",
+    "link": "https://spb.hh.ru/vacancy/89850580?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "no salary declared",
+    "company": "Работут",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Python разработчик",
+    "link": "https://spb.hh.ru/vacancy/89321400?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "no salary declared",
+    "company": "ООО Виртуальные инфраструктуры",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Программист Python",
+    "link": "https://spb.hh.ru/vacancy/88840918?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "до 300000 ₽",
+    "company": "ООО Асланов Технолоджи Групп",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Разработчик Python",
+    "link": "https://spb.hh.ru/vacancy/89847342?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "до 230000 ₽",
+    "company": "ООО АВ Софт",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Разработчик (Python)",
+    "link": "https://spb.hh.ru/vacancy/89008711?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "no salary declared",
+    "company": "ООО Дивергент",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Разработчик Python",
+    "link": "https://spb.hh.ru/vacancy/89448592?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "no salary declared",
+    "company": "Точка",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Python developer",
+    "link": "https://spb.hh.ru/vacancy/89841853?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "no salary declared",
+    "company": "АО Особая Экономическая Зона Технополис Москва",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Python-разработчик",
+    "link": "https://spb.hh.ru/vacancy/86085894?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "до 420000 ₽",
+    "company": "Тензор",
+    "city": "Санкт-Петербург"
+  },
+  {
+    "vacancy": "Программист Python",
+    "link": "https://spb.hh.ru/vacancy/89711023?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "185000 – 240000 ₽",
+    "company": "Quiet Media",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Python-developer",
+    "link": "https://spb.hh.ru/vacancy/89837670?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "100000 – 215000 ₽",
+    "company": "Работут",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Python Разработчик",
+    "link": "https://spb.hh.ru/vacancy/89597948?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "до 300000 ₽",
+    "company": "ООО Финансово-правовой альянс",
+    "city": "Санкт-Петербург"
+  },
+  {
+    "vacancy": "Python разработчик",
+    "link": "https://spb.hh.ru/vacancy/88580480?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "no salary declared",
+    "company": "ООО Асланов Технолоджи Групп",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Python разработчик",
+    "link": "https://spb.hh.ru/vacancy/88383578?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "no salary declared",
+    "company": "ООО АВ Софт",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Python developer / django",
+    "link": "https://spb.hh.ru/vacancy/88904697?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "no salary declared",
+    "company": "ООО Дивергент",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Программист Python",
+    "link": "https://spb.hh.ru/vacancy/89828692?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "до 250000 ₽",
+    "company": "Точка",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Python-разработчик",
+    "link": "https://spb.hh.ru/vacancy/89041463?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "от 150000 ₽",
+    "company": "АО Особая Экономическая Зона Технополис Москва",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Senior QAA Python в 2GIS.PRO",
+    "link": "https://adsrv.hh.ru/click?b=598282&c=45&place=35&meta=41II_rpS4mzfTm-Nx6HVUIRsO-Usng2WB3ekEHyFWFN41E6E7u3ocL_ye-N5n_-n5K8U6A7WLlQC5mPqffk3NmM6BbNqw6deaXay73tDp0t4mlQCxqLEqla2YugoOdeVUVN6HxNmagbC3Xn4ZZC5PutzfULUHLDc16SLgSpYZLOaZTnAQo7k3F8AQAk273srrrKJTsqAnczTa1r9c3NIXZZNHUK5Sf-RZcHbhsjhoucvlcwEBbOk1dIcYSIZewWE8U0l-i7QGLTFqk_26IcyOeBWAeamDxWhWfj0SLjnwQ8YhRA_LI5rWREPpotIvwxAPkQaYESq7BBALMNf-IsutPM7Eebay0Ri1-LAZ-vxQKNhNePei3gSjZMRQ33PLFAeP5w65ETvT62LGv3e9KO698_-fxL3HvfZgCMpseHbKpzcEVY9nokRfCv90JEbj6Q4imSK-BB4bXOhHeKgFn_d27-HY4aBWar75g0as95DELLaFUfA8HzU9uaJ5NfyJWUDjHW2-tFYsgVbUnDJN_7veg%3D%3D&clickType=link_to_vacancy",
+    "salary": "no salary declared",
+    "company": "Тензор",
+    "city": "Санкт-Петербург"
+  },
+  {
+    "vacancy": "Сетевой администратор / Сетевой инженер",
+    "link": "https://adsrv.hh.ru/click?b=753544&c=16&place=36&meta=Jikk44b2yT_x4-IjZygD-zvRe1sBmq8b8LaANVp_8M7WzxI0umKJYq-QX0IdvV8KYNAe4igneRDG16nvwB1D-RZlArzp53djDa6EjhQu_N1wLpRngQBnAEMYSi4_JNj3upbmzwOp67RkIcEP6Y0m3_LWUAGSG3zzHgmc7S_NE6a9lCYY-jZtRHjZiZ3YeBzyTltV9o0PC2IwNCLhdkdYYqCdgsptDtwVB0qRCUMVLZRzfBgm-dLyq7tI9FIirsHHMTMTO7G7JSnIJ0hdlJ5F87mUvNXeHs2q4E_r9WlsMcPfnT3Wx37qN3PWYKj7T27g5-3oWUvpXfBvBBnRF_hWRUR5o56t0pjz1hxFb3YAGLfuKosccE3L4Z9CYlBilsWDqP6LRiIq-OncUvmTdR4lChkDgaU9H0BHMV9sAN3uBEi1lhTgL4f7FsTSEBBB68W486al9f05dL9ll7Pk8XJiHKICH-CO2aVoCnytcV1Myiut0sV1nD99yXBSAz-CqEhVkeok5N_vESkKgzrOp30wAQ%3D%3D&clickType=link_to_vacancy",
+    "salary": "до 120000 ₽",
+    "company": "Quiet Media",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Python Developer",
+    "link": "https://spb.hh.ru/vacancy/87770978?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "no salary declared",
+    "company": "Работут",
+    "city": "Москва"
+  }
+]
